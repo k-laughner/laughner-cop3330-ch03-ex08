@@ -3,3 +3,7 @@
  *  Copyright 2021 Kaylee Laughner
  */
 #include <iostream> 
+
+// prototypes
+bool evenDeclaration(const int num);
+void print(const bool b);
